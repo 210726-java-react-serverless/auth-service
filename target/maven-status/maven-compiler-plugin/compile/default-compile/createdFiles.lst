@@ -1,7 +1,0 @@
-com/revature/auth/dto/Principal.class
-com/revature/auth/util/TokenValidator.class
-com/revature/auth/services/TokenService.class
-com/revature/auth/AuthServiceApplication.class
-com/revature/auth/controllers/TokenController.class
-com/revature/auth/util/JwtConfig.class
-com/revature/auth/util/TokenGenerator.class

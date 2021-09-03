@@ -1,7 +1,0 @@
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/util/TokenGenerator.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/services/TokenService.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/dto/Principal.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/AuthServiceApplication.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/util/TokenValidator.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/util/JwtConfig.java
-/home/wezley/repos/reva-repos/batch-repos/210726-java-react-serverless/auth-service/src/main/java/com/revature/auth/controllers/TokenController.java
