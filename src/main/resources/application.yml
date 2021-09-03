@@ -1,0 +1,13 @@
+server:
+  port: 5001
+  servlet:
+    context-path: /auth-service
+
+spring:
+  application:
+    name: auth-service
+
+jwt:
+  header: Authorization
+  secret: Revature
+  expiration: 86400000
